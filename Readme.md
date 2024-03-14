@@ -14,7 +14,7 @@ Current Release: [v1.0.0](https://github.com/keoy7am/Win32PrioritySeparationTool
 
 ## Usage
 
-Just choose which option you prefer.
+Just choose which option you prefer.  
 ref: [https://forums.guru3d.com/threads/faq-of-the-software-operating-systems-section.155424/#post-1451631](https://forums.guru3d.com/threads/faq-of-the-software-operating-systems-section.155424/#post-1451631)
 
 | **Decimal** | **Hex** | **Description**                     |
